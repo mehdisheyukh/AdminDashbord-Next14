@@ -15,7 +15,7 @@ const LoginForm = () => {
       <input type="password" placeholder="Password" name="password" />
       <button>Login</button>
       {state && state}
-      <h4>Hit U&P: mehdi7</h4>
+      <h4>Hint U&P: mehdi7</h4>
     </form>
   )
 }
